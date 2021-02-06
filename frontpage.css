@@ -1,0 +1,29 @@
+.firstrow {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: auto;
+}
+
+.secondrow {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.thirdrow {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    background-color: cyan;
+}
