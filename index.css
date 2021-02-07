@@ -89,3 +89,31 @@
     align-content: space-around;
     justify-content: center;
 }
+
+
+.dropdown {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: 5px;
+    border-color: white;
+}
+
+.dropdown-content a:hover {background-color: white;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: grey;}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: lightgrey;
+    min-width: 200px;
+    z-index: 1;
+}
