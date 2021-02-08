@@ -2,8 +2,8 @@ const test = document.querySelectorAll("test");
 
 document.addEventListener("onclick", ShopAlert);
 
-function ShopAlert(x) {
-   alert("The product has been added to your cart!")
+function ShopAlert() {
+   alert("The following item has been added to your shopping cart")
    Addingitems();
 }
 
