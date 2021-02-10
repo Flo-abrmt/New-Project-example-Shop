@@ -1,0 +1,13 @@
+{
+  "name": "connect-mongo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.15"
+  },
+  "devDependencies": {}
+}
