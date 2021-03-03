@@ -4,7 +4,7 @@ This is my first try building a shopping site.
 
 This will have no eyecandy and stuff like that Im just trying to make it all work and looks can be changed afterwards.
 
-This is also my first time using a database and working with one. I'll use mongodb atlas for this in combination with the lib mongoose and the framework node.js.  
+This is also my first time using a database and working with one. I'll use mongodb atlas for this in combination with the lib mongoose and node.js.  
 
 For the Frontend HTML, CSS and Javascript.
 For Backend Javascript again.
